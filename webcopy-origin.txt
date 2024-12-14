@@ -1,0 +1,48 @@
+Uri: https://fonts.googleapis.com/css?family=Baloo+Thambi
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/baloothambi/v13/va9B4kXJzNhTFoA7CYcS8sHeRhf_.ttf
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\s\baloothambi\v13\va9B4kXJzNhTFoA7CYcS8sHeRhf_.ttf
+Content Type: font/ttf
+
+Uri: https://royalmines.verxmin.ru/
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\index.htm
+Content Type: text/html
+
+Uri: https://royalmines.verxmin.ru/1.gif
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\1.gif
+Content Type: image/gif
+
+Uri: https://royalmines.verxmin.ru/click.mp3
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\click.mp3
+Content Type: audio/mpeg
+
+Uri: https://royalmines.verxmin.ru/close.mp3
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\close.mp3
+Content Type: audio/mpeg
+
+Uri: https://royalmines.verxmin.ru/intro.otf
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\intro.otf
+Content Type: application/octet-stream
+
+Uri: https://royalmines.verxmin.ru/notify.mp3
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\notify.mp3
+Content Type: audio/mpeg
+
+Uri: https://royalmines.verxmin.ru/pere.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\pere.png
+Content Type: image/png
+
+Uri: https://royalmines.verxmin.ru/play.png
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\play.png
+Content Type: image/png
+
+Uri: https://royalmines.verxmin.ru/reset.mp3
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\reset.mp3
+Content Type: audio/mpeg
+
+Uri: https://royalmines.verxmin.ru/step.svg
+File Name: C:\Users\Użytkownik\Desktop\верстка\royalmines.verxmin.ru\step.svg
+Content Type: image/svg+xml
+
